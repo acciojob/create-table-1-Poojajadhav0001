@@ -10,4 +10,7 @@ function insert_Row() {
 	let cell1 = newRow.insertCell(0);
 	let cell2 = newRow.insertCell(1);
   
+} 
+function insert_Cell{
+	
 }
